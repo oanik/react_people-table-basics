@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/react_people-table/static/css/main.89d899b6.chunk.css",
-    "main.js": "/react_people-table/static/js/main.511e44c4.chunk.js",
-    "main.js.map": "/react_people-table/static/js/main.511e44c4.chunk.js.map",
-    "runtime-main.js": "/react_people-table/static/js/runtime-main.6e48df64.js",
-    "runtime-main.js.map": "/react_people-table/static/js/runtime-main.6e48df64.js.map",
-    "static/css/2.7e109677.chunk.css": "/react_people-table/static/css/2.7e109677.chunk.css",
-    "static/js/2.88e4c086.chunk.js": "/react_people-table/static/js/2.88e4c086.chunk.js",
-    "static/js/2.88e4c086.chunk.js.map": "/react_people-table/static/js/2.88e4c086.chunk.js.map",
-    "index.html": "/react_people-table/index.html",
-    "precache-manifest.09c9f2f3be13b658b3606b00342535fc.js": "/react_people-table/precache-manifest.09c9f2f3be13b658b3606b00342535fc.js",
-    "service-worker.js": "/react_people-table/service-worker.js",
-    "static/css/2.7e109677.chunk.css.map": "/react_people-table/static/css/2.7e109677.chunk.css.map",
-    "static/css/main.89d899b6.chunk.css.map": "/react_people-table/static/css/main.89d899b6.chunk.css.map",
-    "static/js/2.88e4c086.chunk.js.LICENSE.txt": "/react_people-table/static/js/2.88e4c086.chunk.js.LICENSE.txt"
+    "main.css": "/react_people-table-basics/static/css/main.89d899b6.chunk.css",
+    "main.js": "/react_people-table-basics/static/js/main.c786aa54.chunk.js",
+    "main.js.map": "/react_people-table-basics/static/js/main.c786aa54.chunk.js.map",
+    "runtime-main.js": "/react_people-table-basics/static/js/runtime-main.c44ffd4b.js",
+    "runtime-main.js.map": "/react_people-table-basics/static/js/runtime-main.c44ffd4b.js.map",
+    "static/css/2.7e109677.chunk.css": "/react_people-table-basics/static/css/2.7e109677.chunk.css",
+    "static/js/2.e5b7b301.chunk.js": "/react_people-table-basics/static/js/2.e5b7b301.chunk.js",
+    "static/js/2.e5b7b301.chunk.js.map": "/react_people-table-basics/static/js/2.e5b7b301.chunk.js.map",
+    "index.html": "/react_people-table-basics/index.html",
+    "precache-manifest.dc894037d9289ad3779ba72022f7a1fe.js": "/react_people-table-basics/precache-manifest.dc894037d9289ad3779ba72022f7a1fe.js",
+    "service-worker.js": "/react_people-table-basics/service-worker.js",
+    "static/css/2.7e109677.chunk.css.map": "/react_people-table-basics/static/css/2.7e109677.chunk.css.map",
+    "static/css/main.89d899b6.chunk.css.map": "/react_people-table-basics/static/css/main.89d899b6.chunk.css.map",
+    "static/js/2.e5b7b301.chunk.js.LICENSE.txt": "/react_people-table-basics/static/js/2.e5b7b301.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.6e48df64.js",
+    "static/js/runtime-main.c44ffd4b.js",
     "static/css/2.7e109677.chunk.css",
-    "static/js/2.88e4c086.chunk.js",
+    "static/js/2.e5b7b301.chunk.js",
     "static/css/main.89d899b6.chunk.css",
-    "static/js/main.511e44c4.chunk.js"
+    "static/js/main.c786aa54.chunk.js"
   ]
 }
